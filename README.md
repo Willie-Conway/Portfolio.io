@@ -1,8 +1,7 @@
 # 📚 Portfolio.io
-
-![alt text](assets/Developing.png)
-
 ![alt text](assets/favicon-v2.png)
+
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
